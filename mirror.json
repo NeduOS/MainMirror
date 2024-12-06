@@ -1,0 +1,10 @@
+{
+    "nano": [
+        {
+            "server": "https://gnu.mirror.constant.com/nano/nano-8.2.tar.xz",
+            "md5sum": "382baf871963ac2c31c1e8043c70776e",
+            "version": 8.2
+
+        }
+    ]
+}
