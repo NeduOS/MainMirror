@@ -4,8 +4,7 @@
             "server": "https://gnu.mirror.constant.com/nano/nano-8.2.tar.xz",
             "sha256sum": "d5ad07dd862facae03051c54c6535e54c7ed7407318783fcad1ad2d7076fffeb",
             "version": 8.2,
-            "install": "/usr/bin",
-            "config":  "./configure --sysconfdir=/etc --enable-utf8 --docdir=/usr/share/doc/nano-8.2"
+            "install-cmd": ""
         }
     ]
 }
